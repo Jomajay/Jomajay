@@ -9,7 +9,7 @@ Hello! 👋 I am a dedicated data analyst and data scientist who is passionate a
 ### Data Analytics
 - **SQL:** 🛠️ Proficient in writing complex queries to extract, manipulate, and analyze data from relational databases. Experienced in optimizing queries for performance and working with large datasets.
 - **Excel:** 📊 Advanced skills in Excel, including data cleaning, pivot tables, VLOOKUP, and complex formulas. Capable of creating dynamic and interactive dashboards for data visualization and reporting.
-- **PowerPoint:** 📈 Skilled in creating compelling presentations that effectively communicate data insights and recommendations to stakeholders. Proficient in using visual aids and storytelling techniques to enhance data presentations.
+- **Power BI:** 📈 Skilled in creating compelling presentations that effectively communicate data insights and recommendations to stakeholders. Proficient in using visual aids and storytelling techniques to enhance data presentations.
 
 ### Data Science
 - **Python:** 🐍 Experienced in using Python for data analysis, statistical modeling, and machine learning. Proficient in libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and TensorFlow.
