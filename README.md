@@ -2,12 +2,12 @@
 
 ## About Me
 
-Hello! 👋 I am a dedicated data analyst and data scientist who is passionate about transforming data into actionable insights. My journey in the world of data started with a fascination for uncovering patterns and trends hidden within vast datasets. Over the years, I have honed my skills in various data analytics and data science tools and techniques, allowing me to tackle complex problems and drive data-informed decision-making processes.
+Hello! 👋 I am a dedicated data analyst and scientist passionate about transforming data into actionable insights. My journey in the world of data started with a fascination for uncovering patterns and trends hidden within vast datasets. Over the years, I have honed my skills in various data analytics and data science tools and techniques, allowing me to tackle complex problems and drive data-informed decision-making processes.
 
 ## Professional Skills
 
 ### Data Analytics
-- **SQL:** 🛠️ Proficient in writing complex queries to extract, manipulate, and analyze data from relational databases. Experienced in optimizing queries for performance and working with large datasets.
+- **SQL:** 🛠️ Proficient in writing complex queries to extract, manipulate, and analyze data from relational databases. I am experienced in optimizing queries for performance and working with large datasets.
 - **Excel:** 📊 Advanced skills in Excel, including data cleaning, pivot tables, VLOOKUP, and complex formulas. Capable of creating dynamic and interactive dashboards for data visualization and reporting.
 - **Power BI:** 📈 Skilled in creating compelling presentations that effectively communicate data insights and recommendations to stakeholders. Proficient in using visual aids and storytelling techniques to enhance data presentations.
 
@@ -23,7 +23,7 @@ EXPLORE AI ACADEMY
 🎓 Graduated: August 2024
 
 **Diploma in Data Analytics**  
-Coven Works Labs inc  
+Coven Works Labs Inc  
 🎓 Graduated: October 2023
 
 **Bachelor of Science in Meteorology and Climate Science**  
@@ -32,7 +32,7 @@ Federal University of Technology, Akure [Nigeria]
 
 ## Certifications
 
-- **Data Science Professional Certificate** - [Explore AI Academy] (In-view) 🎓
+- **Data Science Professional Certificate** - [Explore AI Academy] 🎓
 - **SQL for Data Science** - [DataCamp] 📚
 - **Data Analysis Certificate** - [Coven Works Lab] 📜
 - **Green Digital Skill Certification** - [INCO ACADEMY] 🌍
